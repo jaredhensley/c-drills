@@ -1,0 +1,6 @@
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\jaredh\Source\Repos\c#problems\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
